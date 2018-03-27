@@ -1,2 +1,3 @@
-path = Eigen
+[submodule "Eigen"]
+	path = Eigen
 	url = https://github.com/libigl/eigen
