@@ -1,0 +1,2 @@
+path = Eigen
+	url = https://github.com/libigl/eigen
